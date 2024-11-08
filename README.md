@@ -13,14 +13,11 @@ chmod +x adbmgr.sh
 - script  may show 1 device connected even when no devices are connected
 
 ## Screenshots
-
+- 1
 ![Screenshot 1](screenshots/Screenshot_20241108-100443_Termux.png)  
-<br>
-
+-2
 ![Screenshot 2](screenshots/Screenshot_20241108-100509_Termux.png)  
-<br>
-
+-3
 ![Screenshot 3](screenshots/Screenshot_20241108-100616_Termux.png)  
-<br>
-
+-4
 ![Screenshot 4](screenshots/IMG_20241108_100819.png)
