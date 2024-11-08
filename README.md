@@ -14,10 +14,14 @@ chmod +x adbmgr.sh
 
 ## Screenshots
 - 1
+- 
 ![Screenshot 1](screenshots/Screenshot_20241108-100443_Termux.png)  
--2
+- 2
+- 
 ![Screenshot 2](screenshots/Screenshot_20241108-100509_Termux.png)  
--3
+- 3
+- 
 ![Screenshot 3](screenshots/Screenshot_20241108-100616_Termux.png)  
--4
+- 4
+- 
 ![Screenshot 4](screenshots/IMG_20241108_100819.png)
