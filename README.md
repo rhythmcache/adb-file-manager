@@ -1,6 +1,7 @@
 # adb-file-manager
+- Can PUSH , PULL and DELETE Files
 
-##How to use
+## How to use
 - adb should be installed on your distro
 - Download the script and run it
 or just paste this
